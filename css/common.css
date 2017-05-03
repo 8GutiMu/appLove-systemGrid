@@ -124,3 +124,22 @@ nav > a{
 #inicio > div > div > input:hover{
   color: #E95853;
 }
+
+/*seccion SERVICE*/
+.service{
+  background-color: #E95853;
+  color:white;
+}
+.imagenesService{
+  height: 200px;
+  width: 200px;
+}
+.textitos{
+  margin-top: 15px;
+  padding: 20px;
+  list-style: none;
+  font-size:12px;
+}
+li{
+  padding: 15px;
+}
